@@ -9,8 +9,8 @@ import { ImInstagram } from 'react-icons/im'
 
 const FooterSection = () => {
     return (
-        <section className='w-full flex flex-col bg-blue-200 mt-12 max-auto justify-center items-center h-[30vh]'>
-            <div className='grid grid-cols-4 w-[90%] justify-center'>
+        <section className='w-full flex flex-col bg-blue-200 mt-12 max-auto justify-center items-center h-fit'>
+            <div className='grid py-10 grid-cols-4 w-[90%] justify-center'>
                 <div className='flex flex-col'>
                     <div className='log'>
                         <p className='font-bold text-2xl uppercase'>H-Rwanda</p>
