@@ -1,7 +1,7 @@
 import React from 'react';
 import Slider from 'react-slick';
-// import 'slick-carousel/slick/slick.css';
-// import 'slick-carousel/slick/slick-theme.css';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 import { FaBed } from 'react-icons/fa';
 import { FaBath } from 'react-icons/fa6';
 import { BsFire } from 'react-icons/bs';
